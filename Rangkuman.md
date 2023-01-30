@@ -26,6 +26,6 @@ Gunakan command *git clone [path dari github]*. Dengan begitu, remote di GitHub 
 Membuat cloning ke lokal dari GitHub disebut pull. Sebaliknya, mengupdate online repository dari repository lokal disebut push. Kita dapat mengupdate repository di GitHub dengan comman *git push*.  
 ![Push](ss5.png)
 ## 3. Branch
-Terdapat suatu tool yang dapat dimanfaatkan dalam mencoba fitur, yakni branch. Kita dapat menggunakan branch untuk menguji fitur dan merge ke dalam branch utama atau master jika sudah yakin.  
+Terdapat suatu tool yang dapat dimanfaatkan dalam mencoba fitur, yakni branch. Kita dapat menggunakan branch untuk menguji fitur dan merge ke dalam branch utama atau master jika sudah yakin. **disini adalah perubahannya**.  
 ## Apa itu Fork ?
- Selain itu, tedapat tool fork, yakni alat yang digunakan untuk mencopy repository orang lain dan diubah di dalam repository kita.
+ Selain itu, tedapat tool fork, yakni alat yang digunakan untuk mencopy repository orang lain dan diubah di dalam repository kita. 
