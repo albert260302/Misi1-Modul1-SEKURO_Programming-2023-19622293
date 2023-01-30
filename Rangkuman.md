@@ -32,4 +32,10 @@ Terdapat suatu tool yang dapat dimanfaatkan dalam mencoba fitur, yakni branch. K
 Digunakan untuk menyatukan cabang atau branch ke cabang utama atau main. Akan tetapi, dapat terjadi error ketika penggabungan atau merge, yakni conflict. Untuk mengatasiya, diperlukan perubahan file secara manual.  
 ![Merge](ss7.png)
 ## Apa itu Fork ?
- Selain itu, tedapat tool fork, yakni alat yang digunakan untuk mencopy repository orang lain dan diubah di dalam repository kita.
+ Selain itu, tedapat tool fork, yakni alat yang digunakan untuk mencopy repository orang lain dan diubah di dalam repository kita.  
+ ## .gitignore
+ file dengan extension .gitignore adalah file dapat kita isi dengan nama file yang ingin diabaikan dan tidak dimasukkan   dalam repository  
+ 
+ ![ignore](ss8.png)  
+
+ pada kasus di atas, file hello.py akan diabaikan
