@@ -1,4 +1,4 @@
-# Version Control System
+# Version Control Syste
 version control system adalah sebuah sistem yang dapat mengelola perubahan dalam dokumen.Salah satu software version control system adalah Git dan versi websitenya adalah GitHub.
 # Cara Menggunakan Git
 Git terbagi menjadi tiga area, yakni working tree, staging area, dan history. Berikut langkah-langkah menggunakan Git:
